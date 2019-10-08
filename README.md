@@ -7,7 +7,7 @@ This is an opportunity for you to experiment with using the Tiled Map Editor to 
  * In this repository, you will find a map.tmx file. This is set up with some initial tiles (in the assets folder) for you to create an orthogonal map. Open map.tmx in Tiled. The orthogoal map is already created. I only had to add tiles in the platform layer using the stamp brush. 
  
  * map.tmx has two layers, Platforms and Coins. Anything you draw in Platforms will be an object to stand on or an obstacle; anything you draw in Coins will be a source of points.
- * I used the stamp brush to add tiles from the Terrain Tool to my map. I also adjusted the size of the map to fit the screen nicely. When run, the character can now jump from terrains. The coins would not paste on the map. I don't know if it was the stamp brush or something else, however, it just did not work. 
+ * I used the stamp brush to add tiles from the Terrain Tool to my map. I also adjusted the size of the map to fit the screen nicely. When run, the character can now jump from terrains. The coins would not paste on the map. I don't know if it was the stamp brush or something else, however, it just did not work. UPDATE: I noticed that the more tiles you add on the screen, the blocks stay on the screen rather than dissapear. I also managed to add coins however, It caused the map to dissapear within seconds and placed the coins and tiles on different sides of the screen. 
  
  
 
